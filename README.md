@@ -1,1 +1,1 @@
-# GenAI - Search Engine LLM
+# GenAI - Search Engine with LLM and Agents
